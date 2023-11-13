@@ -39,6 +39,7 @@ Python을 통해 ETRI 객체 검출 API와 사람 상태 이해 API를 각각의
 
 
 
+![image](https://github.com/jhg8342/2023_ETRI_openAPI-/assets/105159817/5140b0df-6207-42e0-a3df-35446c5a9a1f)
 
 데이터베이스에 다음과 같이 저장됩니다.
 
@@ -47,6 +48,7 @@ Python을 통해 ETRI 객체 검출 API와 사람 상태 이해 API를 각각의
 데이터베이스를 통해 문제시되는 사진을 따로 불러와 기존에 설정하였던 기준치를 넘어서면 사전방지를 위한 조치를 취합니다.
 
  
+![image](https://github.com/jhg8342/2023_ETRI_openAPI-/assets/105159817/6a90234c-a566-4d27-b54c-12f8faa6b214)
 
 전체 프로세스는 다음과 같습니다.
 
